@@ -13,7 +13,8 @@
 
 ### 📈 My Learning Path 
 
-![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) [View](https://www.hackerrank.com/dashboard)
+![HackerRank](https://www.hackerrank.com/dashboard)
+![Leetcode](https://leetcode.com/Kajukomal/)
 
 ---
 
