@@ -8,6 +8,7 @@
 
 </div>
 
+----
 
 ### Take a look at my [Projects](https://github.com/Kajukomal?tab=repositories)
 
@@ -34,9 +35,10 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
----
+
 
 ### 👩‍💻 My Languages 
+
 <div align="center">
 
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -45,7 +47,8 @@
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
  </div>
-----
+
+ ----
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Kajukomal&show_icons=true" alt="Komal Kumari | Stats" />
@@ -53,10 +56,11 @@
   
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajukomal&)](https://github.com/Kajukomal/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajukomal&theme=dark)](https://github.com/Kajukomal/github-readme-stats)
   
   </div>
-  
+
+  ----
   
 ## 🌍 Let's Connect 🤝
 
