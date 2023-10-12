@@ -4,13 +4,13 @@
 
 <h4>I orchestrate the MERN stack's harmonius web symphonies, transforming code into captivating digital experiences.</h4>
 
+[![](https://komarev.com/ghpvc/?username=Kajukomal)](https://github.com/Kajukomal) 
 
 </div>
 
-#### I love to explore and build web technologies and built many projects in this area to showcase my learnings and skills I have.
 
 
-### [Checkout my Projects here](https://github.com/Kajukomal?tab=repositories)
+#### [Checkout my Projects here](https://github.com/Kajukomal?tab=repositories)
 
 ----
 
@@ -32,7 +32,14 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  </div>
- 
+
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kajukomal&show_icons=true&theme=gothamhttps://github.com/Kajukomal/github-readme-stats)
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajukomal)](https://github.com/Kajukomal/github-readme-stats)
+  
+  
   
 ## 🌍 Let's Connect 🤝
 
