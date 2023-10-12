@@ -12,12 +12,7 @@
 
 ### Take a look at my [Projects](https://github.com/Kajukomal?tab=repositories)
 
-### 📈 My Learning Path 
 
-![HackerRank](https://www.hackerrank.com/dashboard)
-![Leetcode](https://leetcode.com/Kajukomal/)
-
----
 
 ### 📧 Reach Me At : 
 **komalkumari.web2002@gmail.com**
