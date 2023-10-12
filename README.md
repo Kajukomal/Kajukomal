@@ -1,5 +1,5 @@
 <div align="center">
-<h1 >Hello 👋, I'm Komal Kumari</h1>
+<h1 >Hello 👋, I'm Komal </h1>
 
 <h3>I orchestrate the MERN stack's harmonius web symphonies, transforming code into captivating digital experiences.</h3>
 
