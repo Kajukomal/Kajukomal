@@ -10,16 +10,16 @@
 
 
 
-#### [Checkout my Projects here](https://github.com/Kajukomal?tab=repositories)
+### [Checkout my Projects here](https://github.com/Kajukomal?tab=repositories)
 
 ----
 
-### 📫 Reach Me At : 
+#### 📫 Reach Me At : 
 **komalkumari.web2002@gmail.com**
 
 ----
 
-## 👩‍💻 Tech Skills
+### 👩‍💻 Tech Skills
 
 <div align="center">
   
@@ -33,12 +33,19 @@
 
  </div>
 
+---
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kajukomal&show_icons=true&theme=gothamhttps://github.com/Kajukomal/github-readme-stats)
+## 📊 Github Stats
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Kajukomal&show_icons=true&theme=radical" alt="Komal Kumari | Stats" />
+   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajukomal)](https://github.com/Kajukomal/github-readme-stats)
+<div align="center">
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajukomal&theme=radical)](https://github.com/Kajukomal/github-readme-stats)
+  
+  </div>
   
   
 ## 🌍 Let's Connect 🤝
