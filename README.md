@@ -1,6 +1,5 @@
-```diff
-
-<div align="center" text-color="white">
+<div  color="white">
+<div align="center">
   
 <h1 >Hello 👋, I'm Komal </h1>
 
@@ -62,4 +61,5 @@
 ## 🌍 Let's Connect 🤝
 
 <a href="https://www.linkedin.com/in/komal-kumari-a92ba420a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-```
+
+</div>
