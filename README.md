@@ -1,7 +1,8 @@
 <div align="center">
 <h1 >Hello 👋, I'm Komal </h1>
 
-<h3>I orchestrate the MERN stack's harmonius web symphonies, transforming code into captivating digital experiences.</h3>
+
+<h4>I orchestrate the MERN stack's harmonius web symphonies, transforming code into captivating digital experiences.</h4>
 
 
 </div>
@@ -13,7 +14,7 @@
 
 ----
 
-### 📫 How to reach me: 
+### 📫 Reach Me At : 
 **komalkumari.web2002@gmail.com**
 
 ----
@@ -34,7 +35,5 @@
  
   
 ## 🌍 Let's Connect 🤝
-
-
 
 <a href="https://www.linkedin.com/in/komal-kumari-a92ba420a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
